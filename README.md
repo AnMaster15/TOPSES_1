@@ -52,11 +52,12 @@ M8,0.93,0.86,3.4,37.0,10.55,0.4085,7
 - Impact symbols must be + or -
 
 ## Program 2: PyPI Package
+This implementation is available as a Python package on [`https://pypi.org/project/Topsis-Anchit-102203810/`](https://pypi.org/project/Topsis-Anchit-102203810/). You can easily install it via `pip`:
 
-### Installation
 ```bash
-pip install Topsis-<FirstName>-<RollNumber>
+pip install Topsis-Anchit-102203810
 ```
+---
 
 ## Program 3: Web Application
 Access the web interface at: https://topsis-jvyx6u0b6-anchit-mehras-projects.vercel.app/
